@@ -14,7 +14,7 @@ was first used in Gray-
 2. Iterative method starts with an initial (guess) value and improves accuracy of the
 result with each iteration.
 
-2. The Radix-2 SRT-Redundant and Non-Redundant Algorithm
+2. The Radix-2 SRT-Redundant and Non-Redundant Algorithm: 
 The Radix-2
 SRT-Redundant and Non-Redundant method are similar. Since them both based on
 recursive relation. In each iteration, they will be one digit shift left and addition. The

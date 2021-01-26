@@ -10,13 +10,11 @@ multiplying the number by itself, or r × r) is x. Some of the algorithms for ca
 square roots of a positive Integer number N are shown below:
 
 1. Newton Raphson Method The Newton Raphson method
-was first used in Gray-
-2. Iterative method starts with an initial (guess) value and improves accuracy of the
+was first used in Gray-Iterative method starts with an initial (guess) value and improves accuracy of the
 result with each iteration.
 
 2. The Radix-2 SRT-Redundant and Non-Redundant Algorithm: 
-The Radix-2
-SRT-Redundant and Non-Redundant method are similar. Since them both based on
+The Radix-2 SRT-Redundant and Non-Redundant method are similar. Since them both based on
 recursive relation. In each iteration, they will be one digit shift left and addition. The
 determination of a function is rather complex, especially for high radix SRT
 algorithm. The implantations are not capable of accepting a square root on every
